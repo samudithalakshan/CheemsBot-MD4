@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ𝗕𝗹𝗮𝗰𝗸 𝗠𝗮𝘀𝘁𝗲𝗿 𝗕𝗼𝘁-𝗠𝗗 𝗩1ꫂ<br></h1>
 <p align="center">
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhkJiCxJxl3t0vkEFqu3kCVgzofaentBoC3eMjesj0OMKOwMZeqj_1AXRTTU5oDpor2BR4ss_tjhBMLTYs2lmrjSIbRAMZ8mHQH5CPMizvy-B4Pr3A2GMT7Fd_itQxuhoyqMkqU-QlbsuNALSAqbgZJCLQ3uDE19wf4jKFPbcVnmSwcXHe3QVzo-Vmx=s431" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
