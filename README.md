@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ𝗕𝗹𝗮𝗰𝗸 𝗠𝗮𝘀𝘁𝗲𝗿 𝗕𝗼𝘁-𝗠𝗗 𝗩1ꫂ<br></h1>
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhkJiCxJxl3t0vkEFqu3kCVgzofaentBoC3eMjesj0OMKOwMZeqj_1AXRTTU5oDpor2BR4ss_tjhBMLTYs2lmrjSIbRAMZ8mHQH5CPMizvy-B4Pr3A2GMT7Fd_itQxuhoyqMkqU-QlbsuNALSAqbgZJCLQ3uDE19wf4jKFPbcVnmSwcXHe3QVzo-Vmx=s431" alt="animated" width="540" height="280" />
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhkJiCxJxl3t0vkEFqu3kCVgzofaentBoC3eMjesj0OMKOwMZeqj_1AXRTTU5oDpor2BR4ss_tjhBMLTYs2lmrjSIbRAMZ8mHQH5CPMizvy-B4Pr3A2GMT7Fd_itQxuhoyqMkqU-QlbsuNALSAqbgZJCLQ3uDE19wf4jKFPbcVnmSwcXHe3QVzo-Vmx=s431" alt="animated" width="200" height="200" />
 </p>
 
 <p align="center">
@@ -33,9 +33,8 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/94761676948"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/LYwmT37r1JoKqua117Pkax"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## ```Donate Me```
